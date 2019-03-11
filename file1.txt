@@ -1,2 +1,6 @@
 1st line
+<<<<<<< HEAD
 2nd line
+=======
+3rd line added
+>>>>>>> hotfix_branch
